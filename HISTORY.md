@@ -1,3 +1,9 @@
+# 2.3.0
+  * June 12, 2024
+
+## Added
+  - Support for Ruby 3.2
+
 # 2.2.1
   * June 19, 2019
 
